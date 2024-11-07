@@ -1,0 +1,62 @@
+{
+  "uploadVideos": [
+    {
+      "id": "ec10",
+      "caption": "Before learning cyber security",
+      "imgUrl": "https://www.kaspersky.co.in/content/en-in/images/repository/isc/2017-images/What-is-Cyber-Security.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/b4PWWW0olSk"
+    },
+    {
+      "id": "89fb",
+      "caption": "MR ROBOT",
+      "imgUrl": "https://wallpapers.com/images/hd/usa-series-mr-robot-vqcuotbh0dj1hid0.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/N6HGuJC--rk"
+    }
+  ],
+  "categories": [
+    {
+      "id": "9ee3",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "c97c",
+          "caption": "Cyber Mind",
+          "imgUrl": "https://i.ytimg.com/vi/Q_8RqyR32ag/maxresdefault.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/Q_8RqyR32ag"
+        }
+      ]
+    },
+    {
+      "id": "ea7d",
+      "categoryName": "Movies",
+      "allVideos": [
+        {
+          "id": "86b0",
+          "caption": "SnowDen",
+          "imgUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTDz8dN5Aaibj5shXvl2qP7_QOJGwvlZRssTnGesuxP_tV2xh9",
+          "youtubeLink": "https://www.youtube.com/embed/QlSAiI3xMh4"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "b97e",
+      "caption": "Cyber Mind",
+      "youtubeLink": "https://www.youtube.com/embed/Q_8RqyR32ag",
+      "timeStamp": "11/1/2024, 9:45:17 AM GMT+5:30"
+    },
+    {
+      "id": "20c2",
+      "caption": "SnowDen",
+      "youtubeLink": "https://www.youtube.com/embed/QlSAiI3xMh4",
+      "timeStamp": "11/1/2024, 9:45:22 AM GMT+5:30"
+    },
+    {
+      "id": "8327",
+      "caption": "MR ROBOT",
+      "youtubeLink": "https://www.youtube.com/embed/fpoYvJZzXgY",
+      "timeStamp": "11/1/2024, 9:45:25 AM GMT+5:30"
+    }
+  ]
+}
